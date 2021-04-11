@@ -7,4 +7,5 @@
 Exemplos de código na linguagem Erlang.
 
 Como compilar: `make compile`.
+
 Como executar: acessar a shell do Erlang com o comando `erl` na pasta `out` e chamar as funções dos módulos
